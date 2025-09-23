@@ -1,4 +1,4 @@
-Ken’s Techie Website is the official online hub for Ken’s Techie — a platform dedicated to sharing tech insights, tutorials, services, and community outreach initiatives. The website provides a responsive, user-friendly space for showcasing our work and connecting with the wider community.
+KENSTECHY Website is the official online hub for KENSTECHY — a platform dedicated to sharing tech insights, tutorials, services, and community outreach initiatives. The website provides a responsive, user-friendly space for showcasing our work and connecting with the wider community.
 
 🌍 Project Overview
 
